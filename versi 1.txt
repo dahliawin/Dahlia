@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Latihan GIT</title>
+    </head>
+    <body>
+        <p>Ini adalah file versioning versi 1</p>
+    </body>
+</html>
