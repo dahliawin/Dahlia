@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Latihan GIT</title>
+    </head>
+    <body>
+        <p>Ini adalah file versioning versi 3a</p>
+	<p>Perubahan file versi 2 dan hasil revisi versi 3</p>
+    </body>
+</html>
